@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="center">
+        <h1><a href="index">Phil W.</a></h1>
+        <h3>Getting started with Rails</h3>
+        <h4>Intro</h4>
+        <p>
+            <ul>
+                <li>
+                    Rails is a great tool for building entire web applications. I found that it is worth seeing what it can do, then going back and learning how it works.
+                </li>
+            </ul>
+        </p>
+        <h4>First Steps</h4>
+       
+    </div>
+</body>
+</html>
