@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="center">
+        <h1><a href="index">Phil W.</a></h1>
+        <h3>Every. Darn. Day.</h3>
+        <h4>Intro</h4>
+        <p>
+            <ul>
+                <li>
+                   Everything I'm good at I learned by doing it every day.
+                </li>
+                <li>The things I'm not that good at are the ones that I gave up on.</li>
+                <li>But a daily habit allows me to keep my skills from fading away.</li>
+           
+            </ul>
+        </p>
+        <h4>Establishing the habit</h4>
+        <p>
+            <ul>
+                <li>I haven't played a game of chess in weeks, but I still do a tactics problem every day.</li>
+            </ul>
+        </p>
+        <h4>Keeping the habit</h4>
+        <p>
+            <ul>
+                <li>I haven't played a game of chess in weeks, but I still do a tactics problem every day.</li>
+            </ul>
+        </p>
+
+       
+    </div>
+</body>
+</html>
