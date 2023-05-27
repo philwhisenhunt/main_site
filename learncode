@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="center">
+        <h1><a href="index">Phil W.</a></h1>
+        <h3>The Complete Beginner's Guide to Learning to Code</h3>
+        <h4>Intro</h4>
+        <p>
+            <ul>
+                <li>
+                    Anyone can learn how to code. This is the guide I wish I had been able to access when I was learning.
+                </li>
+            </ul>
+        </p>
+        <h4>First Steps</h4>
+        <p>
+            <ul>
+                <li>
+                    Start with a text editing program. On mac, that’s Text Edit. It is already installed, so just find it in your applications folder and open it up
+                </li>
+                <li>
+                    Make a new document and type “Hello World”. Then save it, and name it index
+                </li>
+                <li>
+                    Find that file wherever you saved it, and double click it. It will open in your default browser.
+                </li>
+                <li>
+                    See the text in the top left corner? That is the most basic form of a website. The only difference is that a website is accessible from anywhere. And that is done by putting it on a computer that accessible from anywhere, called a server.
+                </li>
+                <li>
+                    To make a header, wrap the text in a h1 tag: 
+                    <br>
+                    <code>
+                        &lt;h1&gt;Header&lt;/h1&gt;
+                    </code>
+                
+                </li>
+                <li>
+                    To make a paragraph, wrap it in a <code>p</code> tag:
+                  <br>
+                    <code>
+                        &lt;p&gt;I have a sentence here. And another sentence after it.&lt;/p&gt;
+                    </code>
+                </li>
+            </ul>
+        </p>
+    </div>
+</body>
+</html>
