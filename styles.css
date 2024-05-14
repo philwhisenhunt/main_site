@@ -1,22 +1,13 @@
-h1 a{
-
-}
-
-
-
 .center {
     margin: auto;
     width: 90%;
     max-width: 40em;
-    /* border: 3px solid lightblue; */
     padding: 10px;
 }
 
 code {
     background-color: white;
     margin-top: 2em;
-}
-p {
 }
 
 a {
@@ -27,7 +18,7 @@ a {
 body {
     background-color: whitesmoke;
     font-size: 1.2em;
-    color: #183446;
+    color: #1c4056;
 }
 
 h1, h2, h3, h4, h5{
