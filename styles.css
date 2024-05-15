@@ -12,7 +12,9 @@ code {
 
 a {
 /* for dark mode use gold  */
-    color: #183446;
+    color: #315c77;
+    text-decoration: none;
+    
 }
 
 body {
@@ -21,7 +23,8 @@ body {
     color: #1c4056;
 }
 
-h1, h2, h3, h4, h5{
+h1 a{
+    color: #1c4056;
 
 }
 
